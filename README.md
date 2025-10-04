@@ -6,8 +6,11 @@ It automatically activates a submersible pump when the water level is low and sh
 🚀 **Features**
 
 ✅ Automatic pump control using a water level sensor
+
 ✅ Overflow prevention — pump shuts off when tank is full
+
 ✅ Visual + Audio indicators (LEDs + buzzer)
+
 ✅ Low-cost, scalable solution for domestic water management
 
 🛠 **Components Used**
