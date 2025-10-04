@@ -1,4 +1,4 @@
-Automated Water Conservation and Management System
+**Automated Water Conservation and Management System**
 
 This project is an Arduino-based water level control system designed to prevent overflow and water wastage in polytank storage systems.
 It automatically activates a submersible pump when the water level is low and shuts it off when the tank is full. A buzzer and LEDs provide alerts when the tank reaches capacity.
@@ -9,6 +9,7 @@ It automatically activates a submersible pump when the water level is low and sh
 ✅ Overflow prevention — pump shuts off when tank is full
 ✅ Visual + Audio indicators (LEDs + buzzer)
 ✅ Low-cost, scalable solution for domestic water management
+
 🛠 Components Used
 
 Arduino Uno
@@ -27,4 +28,9 @@ D5 → LED2 (Tank full indicator)
 D4 → Buzzer (Tank full alert)
 
 Code 
+
 The Arduino sketch(code) is provided here: [Code (PDF)](Code/)
+
+Photo
+
+Photo found here: [Photo](Photo/)
